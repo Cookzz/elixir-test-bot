@@ -1,21 +1,11 @@
 # ElixirTestBot
 
-**TODO: Add description**
+I am only making this repo to learn elixir.
 
-## Installation
+## Plans
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_test_bot` to your list of dependencies in `mix.exs`:
+Currently, I only have a few plans to make this bot function.
 
-```elixir
-def deps do
-  [
-    {:elixir_test_bot, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/elixir_test_bot>.
-
+* Respond to basic commands (any, with a prefix of !)
+* Play music
+* Translate (W.I.P)
